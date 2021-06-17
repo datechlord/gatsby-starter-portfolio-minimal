@@ -59,7 +59,7 @@ module.exports = {
 
     
      {
-      name: "Mail",
+      name: "mail@datechlord.biz",
       url: "mailto:mail@datechlord.biz",
      },
   ],

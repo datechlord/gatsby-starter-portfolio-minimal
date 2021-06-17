@@ -70,17 +70,26 @@ module.exports = {
   navLinks: {
     menu: [
       {
-        name: "About Me",
+        name: "About",
         url: "/#about",
       },
       {
-        name: "Features",
+        name: "Passion",
         url: "/#projects",
       },
       {
-        name: "Contact",
-        url: "/#contact",
+        name: "Experience",
+        url: "/#",
       },
+      {
+        name: "Work",
+        url: "/#",
+      },
+      {
+        name: "Contact",
+        url: "/#",
+      },
+     
     ],
     button: {
       useFileName: true,

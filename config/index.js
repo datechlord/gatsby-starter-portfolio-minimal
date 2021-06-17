@@ -1,14 +1,14 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@datechlord",
-  siteTitle: "Da Techlord | Blockchain Developer",
+  siteTitle: "Da Techlord | The Blockchain Developer",
   siteShortTitle: "Da Techlord", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "Ready to take the next step in your Blockchain journey, but unsure of which road to take? We can educate and guide you on your Blockchain path.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
-  seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
+  seoTitleSuffix: "Da Techlord | Blockchain Developer", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
   useCookieBar: false, // If you use Google Analytics and want to be GDPR-compliant, set it to true
   googleAnalyticsTrackingId: "", // e.g. UA-XXXXXX-X
 
@@ -70,7 +70,7 @@ module.exports = {
         "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
     },
     {
-      name: "Behance",
+      name: "Facebook",
       url: "https://www.behance.net/konstanmnster",
     },
     // {

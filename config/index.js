@@ -56,27 +56,12 @@ module.exports = {
   // There are icons available for the following platforms:
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
-    {
-      name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
-    },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
-    {
-      name: "Github",
-      url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
-    },
-    {
-      name: "Facebook",
-      url: "https://www.behance.net/konstanmnster",
-    },
-    // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
-    // },
+
+    
+     {
+      name: "Mail",
+      url: "mailto:mail@datechlord.biz",
+     },
   ],
 
   //-- NAVIGATION SETTINGS -----

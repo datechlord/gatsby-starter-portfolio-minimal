@@ -57,7 +57,11 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
 
-    
+    {
+      name: "datechlord@gmail.com",
+      url: "mailto:datechlord@gmail.com",
+     },
+
      {
       name: "mail@datechlord.biz",
       url: "mailto:mail@datechlord.biz",
